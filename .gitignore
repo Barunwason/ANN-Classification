@@ -1,0 +1,8 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore logs
+log/
+
+# Ignore temporary code files
+tempCodeRunnerFile.py
